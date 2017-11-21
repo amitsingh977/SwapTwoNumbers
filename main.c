@@ -20,6 +20,11 @@ int main(int argc, const char * argv[]) {
     a = b;
     b = temp;
     
+    /* new algorithm without the temp variable
+    a = a+b;
+    b = a-b;
+    a = a-b;
+    */
     printf("Your first number is now %d\n",temp);
     
     return 0;
