@@ -1,4 +1,5 @@
-//
+//swapping two numbers using reference
+
 //  main.c
 //  SwapTwoNumbers
 //
